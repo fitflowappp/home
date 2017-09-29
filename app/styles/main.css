@@ -53,7 +53,7 @@
   padding-left: 45px;
   margin-top: 25px;
 }
-.info{
+.info section{
   padding-bottom: 150px;
 }
 .info header{
@@ -129,7 +129,7 @@
   .index section h1{
     font-size: 32px;
   }
-  .info{
+  .info section{
     padding-bottom: 40px;
   }
   .info nav ul li{
@@ -152,6 +152,6 @@
 }
 @media (max-width: 500px){
   .index header h1{
-    margin-top: 180px;
+    margin-top: 120px;
   }
 }
