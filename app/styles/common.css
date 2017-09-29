@@ -55,7 +55,7 @@ h4{
     text-align: center;
   }
 }
-a,a:hover,a:active{
+a,a:link,a:hover,a:active,a:visited{
   color: inherit;
 }
 @font-face {
