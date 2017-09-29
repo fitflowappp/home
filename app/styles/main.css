@@ -1,0 +1,157 @@
+.index header{
+  height: 840px;
+  background-image:url("../images/index/main.jpg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+.index header .main{
+  width: 560px;
+}
+.index header h3{
+  margin-top: 45px;
+}
+.index header h1{
+  line-height:66px;
+  margin-top: 131px;
+  font-family: Lato-Black;
+}
+.index header h2{
+  margin-top: 30px;
+  font-family: Lato-Light;
+  line-height:44px;
+}
+.index header .btn-box{
+  margin-top: 30px;
+}
+.index header .btn-box .left{
+  margin-right: 4%;
+  float: left;
+}
+.index header .btn-box .right{
+  float: right;
+}
+.index header .btn-box .left,.index header .btn-box .right{
+  width: 48%;
+}
+.index section{
+  background: #f8f5f3;
+  padding-bottom: 70px;
+}
+.index section h1{
+  font-family: Lato-Light;
+  font-size: 53px;
+  line-height: 65px;
+}
+.index section img.group{
+  width: 90%;
+}
+.index section h3{
+  line-height: 32px;
+  background: url("../images/icon/ok-green.png") no-repeat 0px 0px/32px;
+  padding-left: 45px;
+  margin-top: 25px;
+}
+.info{
+  padding-bottom: 150px;
+}
+.info header{
+  padding: 45px 0px;
+  color: #fff;
+}
+.info header text{
+  margin-left: 126px;
+}
+.info nav{
+  line-height: 22px;
+  padding-left: 126px;
+  border-bottom: 1px solid #ECECEC;
+}
+.info nav ul li{
+  display: inline-block;
+  list-style: none;
+  margin-right: 40px;
+  padding: 19px 0;
+}
+.info nav ul li.active{
+  color: #9B9B9B;
+}
+.info .title{
+  line-height: 44px;
+  font-size: 36px;
+}
+.info .describe{
+  line-height: 17px;
+}
+.info .text{
+  line-height: 28px;
+  margin-top: 20px;
+}
+.info .node-title{
+  font-family: Lato-Bold;
+  font-size: 24px;
+  margin-top: 30px;
+}
+.info .main{
+  max-width: 780px;
+  margin: auto;
+}
+.info .main ul{
+  list-style: none;
+  line-height: 28px;
+  margin-top: 13px;
+}
+@media (max-width: 1200px){
+  .index header{
+    height: 567px;
+  }
+  .index header .main{
+    width: 100%;
+  }
+  .index header h1{
+    line-height:39px;
+    margin-top: 200px;
+  }
+  .index header h2{
+    margin-top: 15px;
+    line-height:19px;
+  }
+  .index header .btn-box{
+    margin-top: 20px;
+  }
+  .index header .btn-box .left,.index header .btn-box .right{
+    max-width: 268px;
+  }
+  .index section img.group{
+    width: 100%;
+  }
+  .index section h1{
+    font-size: 32px;
+  }
+  .info{
+    padding-bottom: 40px;
+  }
+  .info nav ul li{
+    display: block;
+    border-bottom: 1px solid #ECECEC;
+    margin-right: 0;
+  }
+  .info nav{
+    padding-left: 0px;
+    text-align: center;
+    border-bottom: none;
+  }
+  .info header{
+    text-align: center;
+  }
+  .info header text{
+    margin-left: 0px;
+  }
+
+}
+@media (max-width: 500px){
+  .index header h1{
+    margin-top: 180px;
+  }
+}
