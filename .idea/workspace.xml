@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11dca793-5006-4148-8a82-d73e2053bb1e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/index/main.jpg" afterPath="$PROJECT_DIR$/app/images/index/main.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/privacy-policy.html" afterPath="$PROJECT_DIR$/app/privacy-policy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/terms-of-use.html" afterPath="$PROJECT_DIR$/app/terms-of-use.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +21,8 @@
       <file leaf-file-name="privacy-policy.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/privacy-policy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="177" column="92" lean-forward="false" selection-start-line="177" selection-start-column="92" selection-end-line="177" selection-end-column="92" />
+            <state relative-caret-position="424">
+              <caret line="182" column="65" lean-forward="false" selection-start-line="182" selection-start-column="65" selection-end-line="182" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#text#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -187,7 +185,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -231,10 +233,10 @@
       <recent name="D:\workspace\yogaweb\app\images\index" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\yogaweb\app\images\index" />
       <recent name="D:\workspace\yogaweb\app\images\icon" />
       <recent name="D:\workspace\yogaweb\app\bower" />
       <recent name="D:\workspace\yogaweb\app\scripts" />
-      <recent name="D:\workspace\yogaweb\app\images\index" />
       <recent name="D:\workspace\yogaweb\app\fonts" />
     </key>
   </component>
@@ -338,7 +340,7 @@
       <workItem from="1506656612687" duration="1994000" />
       <workItem from="1506669111591" duration="130000" />
       <workItem from="1506669328669" duration="3483000" />
-      <workItem from="1506754585134" duration="3778000" />
+      <workItem from="1506754585134" duration="4457000" />
     </task>
     <task id="LOCAL-00001" summary="bower.json">
       <created>1506655839330</created>
@@ -410,11 +412,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506760780722</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="邮箱链接">
+      <created>1506762365207</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1506762365207</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45744000" />
+    <option name="totallyTimeSpent" value="46423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -448,7 +457,8 @@
     <MESSAGE value="footer" />
     <MESSAGE value="bower" />
     <MESSAGE value="换图" />
-    <option name="LAST_COMMIT_MESSAGE" value="换图" />
+    <MESSAGE value="邮箱链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="邮箱链接" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -833,8 +843,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/privacy-policy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="177" column="92" lean-forward="false" selection-start-line="177" selection-start-column="92" selection-end-line="177" selection-end-column="92" />
+        <state relative-caret-position="424">
+          <caret line="182" column="65" lean-forward="false" selection-start-line="182" selection-start-column="65" selection-end-line="182" selection-end-column="65" />
           <folding>
             <element signature="n#style#0;n#text#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
