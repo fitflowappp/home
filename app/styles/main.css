@@ -35,23 +35,26 @@
 .index header .btn-box .left,.index header .btn-box .right{
   width: 48%;
 }
+.index header .logo{
+  width: 225px;
+}
 .index section{
   background: #f8f5f3;
   padding-bottom: 70px;
 }
 .index section h1{
   font-family: Lato-Light;
-  font-size: 53px;
-  line-height: 65px;
+  font-size: 50px;
+  line-height: 58px;
 }
 .index section img.group{
   width: 90%;
 }
 .index section h3{
-  line-height: 32px;
+  line-height: 30px;
   background: url("../images/icon/ok-green.png") no-repeat 0px 0px/32px;
   padding-left: 45px;
-  margin-top: 25px;
+  margin-top: 18px;
 }
 .info section{
   padding-bottom: 150px;
@@ -130,6 +133,9 @@
   .index section h1{
     font-size: 32px;
   }
+  .index header .logo{
+    width: 150px;
+  }
   .info section{
     padding-bottom: 40px;
   }
@@ -157,4 +163,5 @@
     line-height:39px;
     margin-top: 40px;
   }
+
 }
