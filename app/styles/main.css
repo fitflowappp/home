@@ -35,7 +35,7 @@
 .index header .btn-box .left,.index header .btn-box .right{
   width: 48%;
 }
-.index header .logo{
+header .logo{
   width: 225px;
 }
 .index section{
@@ -133,7 +133,7 @@
   .index section h1{
     font-size: 32px;
   }
-  .index header .logo{
+ header .logo{
     width: 150px;
   }
   .info section{
