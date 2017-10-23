@@ -10,11 +10,11 @@
   width: 560px;
 }
 .index header h3{
-  margin-top: 45px;
+  margin-top: 80px;
 }
 .index header h1{
   line-height:66px;
-  margin-top: 131px;
+  margin-top: 100px;
   font-family: Lato-Black;
 }
 .index header h2{
@@ -45,16 +45,16 @@ header .logo{
 .index section h1{
   font-family: Lato-Light;
   font-size: 50px;
-  line-height: 58px;
+  line-height: 65px;
 }
 .index section img.group{
   width: 90%;
 }
 .index section h3{
-  line-height: 30px;
+  line-height: 35px;
   background: url("../images/icon/ok-green.png") no-repeat 0px 0px/32px;
   padding-left: 45px;
-  margin-top: 18px;
+  margin-top: 28px;
 }
 .info section{
   padding-bottom: 150px;
@@ -118,8 +118,11 @@ header .logo{
     margin-top: 100px;
   }
   .index header h2{
-    margin-top: 15px;
+    margin-top: 35px;
     line-height:19px;
+  }
+  .index header h3{
+    margin-top: 40px;
   }
   .index header .btn-box{
     margin-top: 20px;
@@ -132,6 +135,7 @@ header .logo{
   }
   .index section h1{
     font-size: 32px;
+    line-height: 50px;
   }
  header .logo{
     width: 150px;
@@ -155,7 +159,9 @@ header .logo{
   .info header text{
     margin-left: 0px;
   }
-
+  .info header a{
+    margin: 0px;
+  }
 }
 
 @media (max-width: 350px){
