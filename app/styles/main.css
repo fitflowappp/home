@@ -171,3 +171,6 @@ header .logo{
   }
 
 }
+.wrap.privacy-policy header,.wrap.privacy-policy nav,.wrap.privacy-policy footer{
+  display: none;
+}
